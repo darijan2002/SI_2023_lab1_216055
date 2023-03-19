@@ -1,0 +1,36 @@
+commit d332b2b39606acc870bc015b215a12e2dac75699
+Author: Darijan Sekerov <darijan2002@gmail.com>
+Date:   Sun Mar 19 18:55:04 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 02b9881ffbecad53283fb45a60fb2b4185757c68
+Merge: 0138ca8 c36b3bd
+Author: Darijan Sekerov <darijan2002@gmail.com>
+Date:   Sun Mar 19 19:08:03 2023 +0100
+
+    Merge branch 'bug2'
+
+commit c36b3bd9bd7f5771fe6e975be405583213b7ab9f
+Author: Darijan Sekerov <darijan2002@gmail.com>
+Date:   Sun Mar 19 18:52:32 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0138ca8ae11ceacc8abe5edfacee0e91c8413b3c
+Author: Darijan Sekerov <darijan2002@gmail.com>
+Date:   Sun Mar 19 18:50:39 2023 +0100
+
+    Fix wrong loop for reading
+
+commit c2fa215a3f99c0d4db1ed1d97ff23c0505e752fa
+Author: Darijan Sekerov <darijan2002@gmail.com>
+Date:   Sun Mar 19 18:38:32 2023 +0100
+
+    Add java class
+
+commit bf2c6e6c6261b5a8e5a4d28d668260bb30f3ddff
+Author: Darijan Sekerov <darijan2002@gmail.com>
+Date:   Sun Mar 19 18:34:42 2023 +0100
+
+    Initial commit
